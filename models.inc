@@ -46,7 +46,7 @@ sphere sphere3 = {
 };
 
 static const
-viewpoint view = {
+viewpoint  view = {
     .vrp = { 40.0, 40.0, 40.0 },
     .vpn = { -1.0, -1.0, -1.0 },
     .vup = {  0.0,  0.0,  1.0 }
